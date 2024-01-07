@@ -1,0 +1,2 @@
+1) mkdir server 
+2) npx create-react-app client 
